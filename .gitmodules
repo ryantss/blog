@@ -1,3 +1,7 @@
 [submodule "themes/cocoa"]
 	path = themes/cocoa
 	url = https://github.com/nishanths/cocoa-hugo-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:skyfish81/skyfish81.github.io.git
+	branch = master
