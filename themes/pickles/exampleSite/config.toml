@@ -25,7 +25,7 @@ copyright = "&copy; Copyright notice"
   youtube = "Your YouTube username"
   linkedin = "Your LinkedIn username"
   # Disqus shortname
-  disqus = ""
+  disqus = "skyfiz"
   # Google Analytics API key.
   ga_api_key = "Your Google Analytics tracking id"
   author = "Your Name"
