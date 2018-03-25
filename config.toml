@@ -1,0 +1,14 @@
+baseURL = "https://skyfish81.github.io"
+languageCode = "en-us"
+title = "skyfish's island"
+# theme = "cocoa"
+theme = "pickles"
+
+# [params.social]
+
+# twitter = "skyfish81"
+# github = "skyfish81"
+# email = "skyfish81@gmail.com"
+# linkedin = "ryantss"
+# facebook = "ryantss"
+# instagram = "skyfish81"
